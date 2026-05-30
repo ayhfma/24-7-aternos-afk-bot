@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DemonSMP-TRA6.aternos.me",
+    "ip": "nukeSMP.aternos.me",
     "port": 13551,
     "version": "1.20.1",
     "try-creative": false
